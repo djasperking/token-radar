@@ -1,0 +1,4 @@
+out/
+node_modules/
+wallet.json
+transcripts.tar.gz
