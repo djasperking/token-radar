@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Parcel (debug)", "request": "launch", "type": "dart", "program": "lib/main.dart" },
+    { "name": "Parcel (profile)", "request": "launch", "type": "dart", "flutterMode": "profile", "program": "lib/main.dart" }
+  ]
+}
